@@ -1,0 +1,5 @@
+
+# Zig related files etc
+zig-out/
+zig-cache/
+
